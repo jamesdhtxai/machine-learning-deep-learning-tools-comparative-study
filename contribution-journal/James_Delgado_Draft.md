@@ -1,7 +1,0 @@
-# James Delgado — Draft Contribution Entry
-
-For this assignment, my main contribution was researching and developing the **Scikit-learn vs. H2O** and **TensorFlow vs. PyTorch** comparisons. I focused on understanding the principles behind the tools rather than only collecting feature lists. For Scikit-learn and H2O, I studied the difference between a machine-learning library and a distributed machine-learning platform, traditional machine-learning tasks such as regression and classification, and methods such as decision trees, random forests, boosting, AutoML, and distributed computing. I compared the tools in terms of usability, performance, support, scalability, background, strengths, and real-world use.
-
-For TensorFlow and PyTorch, I focused on tensor fundamentals, how tensors relate to scalars, vectors, and matrices, and how both frameworks support the neural-network learning process. I researched their origins, strengths, real-world applications, usability, performance, support, and scalability. I also helped shape the presentation's learning-focused structure, including starting questions, transitions between classic machine learning and deep learning, the opening thesis, and the group conclusion. I will be prepared to explain why these tools are not simply interchangeable and how the problem, data, workflow, and scale affect which tool is appropriate.
-
-> This is a working draft. Copy or adapt it into the group's combined Contribution Journal before exporting the final PDF.
