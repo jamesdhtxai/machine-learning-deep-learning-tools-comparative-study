@@ -1,19 +1,19 @@
 # Contribution Journal
 
-Place the final combined **Contribution Journal PDF** in this folder.
+The assignment requires a combined **Contribution Journal PDF** and states that each student must document their individual contribution.
 
-The assignment states that the contribution journal is mandatory and that each student must document their individual contribution.
+## Current status
 
-Before submission, confirm the PDF includes an entry for every group member.
+The working journal currently includes:
 
-Suggested entry format:
+- King Owusu
+- Louis Delgado
 
-## Student Name — Comparison Topic(s) / Group Role
+Still needed before the final PDF:
 
-Describe:
+- Esther Odaibo
+- Zain Ahmed
 
-- What you researched
-- Which comparison topics you were responsible for
-- Which presentation/report materials you created or edited
-- Any source review, organization, transitions, conclusion work, or group coordination you contributed
-- What you learned or will be prepared to explain during the presentation
+`Current_Contribution_Journal.md` reflects the latest journal content shared by the group. `James_Delgado_Contribution.md` contains Louis Delgado's finalized individual entry.
+
+Before submission, combine all four entries, export the journal as PDF, and place the final PDF in this folder.
