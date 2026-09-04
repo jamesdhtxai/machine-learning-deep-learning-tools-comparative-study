@@ -1,6 +1,6 @@
 # A02 Working Status
 
-## Presentation
+## Presentation deliverable
 
 - [x] Title / introduction slide exists
 - [x] Scikit-learn vs. H2O comparison developed
@@ -14,6 +14,7 @@
 - [x] Conclusion / synthesis slide developed
 - [ ] Final group review for consistent sources, formatting, and transitions
 - [ ] Export final presentation using required filename
+- [ ] Add final presentation file to `presentation/`
 
 ## Comparison-quality check
 For each finished comparison, confirm that the presentation or speaker material explicitly addresses:
@@ -27,15 +28,7 @@ For each finished comparison, confirm that the presentation or speaker material 
 - [ ] Scalability
 - [ ] Reliable sources
 
-## Required repository deliverables
-
-- [ ] Final report PDF added to `report/`
-- [ ] Final combined Contribution Journal PDF added to `contribution-journal/`
-- [ ] Every group member is named in the final Contribution Journal
-- [ ] Final presentation added to `presentation/`
-- [ ] Canvas submission includes this GitHub repository link
-
-## Contribution Journal progress
+## Contribution Journal deliverable
 
 - [x] King Owusu entry received
 - [x] Louis Delgado entry received
@@ -43,6 +36,17 @@ For each finished comparison, confirm that the presentation or speaker material 
 - [ ] Zain Ahmed entry received
 - [x] Current working journal saved in the repository
 - [ ] Final four-member journal exported to PDF
+- [ ] Add final Contribution Journal PDF to `contribution-journal/`
+
+## Submission checklist
+
+- [ ] Final presentation complete
+- [ ] Final Contribution Journal PDF complete
+- [ ] Both deliverables retained in this repository
+- [ ] Canvas submission includes this GitHub repository link
+
+## Instructor clarification reflected here
+For this assignment, the working interpretation follows the instructor's in-class clarification: the **presentation slide deck** and **combined Contribution Journal** are the two deliverables. A separate written one-page report is not being tracked as an additional deliverable.
 
 ## High-priority reminder
-The Contribution Journal is mandatory under the assignment instructions. Do not submit the final journal until all four group members are documented.
+The Contribution Journal is mandatory. Do not submit the final journal until all four group members are documented.
