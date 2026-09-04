@@ -24,26 +24,33 @@ Compare machine-learning and deep-learning tools, libraries, frameworks, reposit
 7. GitHub Copilot vs. Tabnine
 8. Hugging Face Transformers vs. OpenAI GPT-4 API
 
+## Instructor clarification on deliverables
+The written assignment directions contain overlapping language about a report, but the instructor clarified in class that this assignment has **two deliverables**:
+
+1. **Presentation slide deck** — each student covers two comparison topics in two slides. The slide deck serves as the project/report content and also reflects what was learned.
+2. **Combined Contribution Journal** — each student documents their individual contribution; the group combines the entries into one document/PDF.
+
+A separate one-page written report and separate reflection journal are **not being treated as additional deliverables** for this assignment based on that in-class clarification.
+
 ## Repository structure
 
-- `assignment/` — assignment instructions and checklist
+- `assignment/` — assignment instructions, instructor clarification, and checklist
 - `presentation/` — working and final presentation files
-- `report/` — final one-page comparison report PDF
-- `contribution-journal/` — required combined contribution journal PDF
+- `contribution-journal/` — required combined contribution journal materials
 - `sources/` — consolidated source notes and references
 
-## Required submission items
+## Submission focus
 
-The assignment instructions require the Git repository link to be submitted in Canvas and identify these key repository deliverables:
+Before submission, confirm that:
 
-- **Report PDF**
-- **Contribution Journal PDF** — mandatory; every student must document their contribution
-
-The presentation and any supporting materials should also be retained here for a complete project record.
+- the final presentation is complete and uses the required naming convention
+- all four students are represented in the Contribution Journal
+- the final Contribution Journal is exported to PDF
+- the GitHub repository link is submitted in Canvas as instructed
 
 ## Current project status
 
-This repository is being organized as the group finalizes the presentation and documentation. See `assignment/STATUS.md` for the working checklist.
+See `assignment/STATUS.md` for the working checklist.
 
 ---
 
