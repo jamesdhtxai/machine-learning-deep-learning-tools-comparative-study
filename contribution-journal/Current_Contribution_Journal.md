@@ -14,9 +14,16 @@ For Scikit-learn vs H2O, I worked through what a machine-learning framework actu
 
 I also helped organize the presentation by improving the opening thesis, transitions, and conclusion. My main goal was to understand the principles behind the tools rather than simply collect features for the slides.
 
+## Zain Ahmed - GitHub Copilot VS Tabnine, Hugging Face Transformers VS OpenAI GPT-4 API
+
+For this assignment, my main contribution to the group was researching and presenting GitHub Copilot vs Tabnine and Hugging Face Transformers vs OpenAI GPT-4 API. For the GitHub Copilot vs Tabnine section, I researched how both tools use AI to help developers write code faster. I compared their main features, ease of use, code suggestions, IDE support, privacy, and how they can be used in real software development. I also looked at the differences between them to understand which tool may be a better choice depending on the developer or project.
+
+For Hugging Face Transformers vs OpenAI GPT-4 API, I researched how both can be used for NLP and generative AI applications. I learned that Hugging Face gives developers access to many pretrained models that can be customized and fine-tuned, while the OpenAI API provides access to powerful hosted models without requiring developers to manage the models themselves. I compared their usability, customization, scalability, and common applications.
+
+After completing my research, I organized the main information into presentation slides that will be presented in class. My goal was to make the comparisons simple and easy to understand while showing that the best tool depends on the needs of the project. I will also be prepared to answer questions about the tools and explain which option may be better for different situations.
+
 ## Still needed before final PDF
 
 - Esther Odaibo contribution entry
-- Zain Ahmed contribution entry
 
-Once all four entries are included, export the combined journal to PDF and place the final PDF in this folder.
+Once Esther's entry is included, export the combined journal to PDF and place the final PDF in this folder.
