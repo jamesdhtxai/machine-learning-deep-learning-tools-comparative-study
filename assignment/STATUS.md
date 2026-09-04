@@ -30,10 +30,19 @@ For each finished comparison, confirm that the presentation or speaker material 
 ## Required repository deliverables
 
 - [ ] Final report PDF added to `report/`
-- [ ] Combined Contribution Journal PDF added to `contribution-journal/`
-- [ ] Every group member is named in the Contribution Journal
+- [ ] Final combined Contribution Journal PDF added to `contribution-journal/`
+- [ ] Every group member is named in the final Contribution Journal
 - [ ] Final presentation added to `presentation/`
 - [ ] Canvas submission includes this GitHub repository link
 
+## Contribution Journal progress
+
+- [x] King Owusu entry received
+- [x] Louis Delgado entry received
+- [ ] Esther Odaibo entry received
+- [ ] Zain Ahmed entry received
+- [x] Current working journal saved in the repository
+- [ ] Final four-member journal exported to PDF
+
 ## High-priority reminder
-The Contribution Journal is mandatory under the assignment instructions. Confirm every member's contribution is documented before submission.
+The Contribution Journal is mandatory under the assignment instructions. Do not submit the final journal until all four group members are documented.
