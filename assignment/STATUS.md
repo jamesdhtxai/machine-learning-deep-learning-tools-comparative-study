@@ -9,8 +9,8 @@
 - [x] JAX vs. NumPy comparison developed
 - [x] AutoGluon vs. H2O AutoML comparison developed
 - [x] NLTK vs. spaCy comparison developed
-- [ ] GitHub Copilot vs. Tabnine comparison finalized
-- [ ] Hugging Face Transformers vs. OpenAI GPT-4 API comparison finalized
+- [x] GitHub Copilot vs. Tabnine comparison developed
+- [x] Hugging Face Transformers vs. OpenAI GPT-4 API comparison developed
 - [x] Conclusion / synthesis slide developed
 - [ ] Final group review for consistent sources, formatting, and transitions
 - [ ] Export final presentation using required filename
@@ -33,7 +33,7 @@ For each finished comparison, confirm that the presentation or speaker material 
 - [x] King Owusu entry received
 - [x] Louis Delgado entry received
 - [ ] Esther Odaibo entry received
-- [ ] Zain Ahmed entry received
+- [x] Zain Ahmed entry received
 - [x] Current working journal saved in the repository
 - [ ] Final four-member journal exported to PDF
 - [ ] Add final Contribution Journal PDF to `contribution-journal/`
