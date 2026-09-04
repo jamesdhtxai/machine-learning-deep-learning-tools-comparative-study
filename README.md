@@ -1,26 +1,25 @@
-# ITAI 2376 — A02 Comparative Analysis
+# Machine Learning & Deep Learning Tools — Comparative Study
 
-## A Comparative Analysis of Machine Learning and Deep Learning Tools and Frameworks
+A hands-on comparative study of modern **machine learning, deep learning, AutoML, NLP, numerical-computing, and AI developer tools**, created while building practical understanding of how these technologies differ in purpose, architecture, usability, performance, support, and scalability.
 
-This repository is the working and submission repository for **ITAI 2376 — A02**.
+## What this project demonstrates
 
-## DL_Group_4
+This project documents both the research and the learning process behind comparing tools across the AI/ML ecosystem. The goal was not simply to list features, but to understand what each tool is designed to do, where it fits in a data or ML workflow, and why one option may be more appropriate than another.
 
-- Esther Odaibo
-- King Owusu
-- Louis Delgado
-- Zain Ahmed
+Key concepts explored include:
 
-### Assignment goal
-Compare machine-learning and deep-learning tools, libraries, frameworks, repositories, and platforms with attention to:
+- Traditional machine learning vs. deep learning
+- ML libraries, frameworks, platforms, and specialized toolkits
+- Tensors and neural-network training fundamentals
+- Regression, classification, decision trees, random forests, and boosting
+- AutoML and model-selection workflows
+- Single-node vs. distributed computing
+- CPU, GPU, and TPU acceleration
+- NLP pipelines and pretrained transformer models
+- AI-assisted software development
+- Usability, performance, support, and scalability tradeoffs
 
-- Background: origin, development, and purpose
-- Key features and distinguishing strengths
-- Real-world applications
-- Comparative perspective: usability, performance, support, and scalability
-- Reliable sources, including official documentation, scholarly work, reputable technical articles, and user/community perspectives where appropriate
-
-## Group comparison topics
+## Comparative studies
 
 1. Scikit-learn vs. H2O
 2. TensorFlow vs. PyTorch
@@ -31,41 +30,29 @@ Compare machine-learning and deep-learning tools, libraries, frameworks, reposit
 7. GitHub Copilot vs. Tabnine
 8. Hugging Face Transformers vs. OpenAI GPT-4 API
 
-## Instructor clarification on deliverables
-The written assignment directions contain overlapping language about a report, but the instructor clarified in class that this assignment has **two deliverables**:
+## Project context
 
-1. **Presentation slide deck** — each student covers two comparison topics in two slides. The slide deck serves as the project/report content and also reflects what was learned.
-2. **Combined Contribution Journal** — each student documents their individual contribution; the group combines the entries into one document/PDF.
+This work was completed as part of **ITAI 2376 — Deep Learning** by **DL_Group_4**:
 
-A separate one-page written report and separate reflection journal are **not being treated as additional deliverables** for this assignment based on that in-class clarification.
+- Esther Odaibo
+- King Owusu
+- Louis Delgado
+- Zain Ahmed
+
+My own work focused on **Scikit-learn vs. H2O** and **TensorFlow vs. PyTorch**, including first-principles study of tensors, classic ML methods, AutoML, distributed computing, and framework terminology.
 
 ## Repository structure
 
 - `assignment/` — assignment instructions, instructor clarification, and checklist
-- `presentation/` — working presentation content and final presentation files
-- `contribution-journal/` — required combined contribution journal materials
-- `sources/` — consolidated source notes and references
+- `presentation/` — working and final presentation materials
+- `contribution-journal/` — documented individual contributions
+- `sources/` — research notes and references
 
-## Current progress
+## Final takeaway
 
-- All eight comparison topics are represented in the current presentation draft.
-- Opening and conclusion slides are developed.
-- King Owusu, Louis Delgado, and Zain Ahmed have contribution-journal entries in the current draft.
-- Esther Odaibo's contribution entry is still needed before the journal can be finalized.
-- Final deck export and final Contribution Journal PDF still need to be added before submission.
-
-## Submission focus
-
-Before submission, confirm that:
-
-- the final presentation is complete and uses the required naming convention
-- all four students are represented in the Contribution Journal
-- the final Contribution Journal is exported to PDF
-- the GitHub repository link is submitted in Canvas as instructed
-
-See `assignment/STATUS.md` for the working checklist.
+The central lesson of the project is that AI/ML tools are not interchangeable. The right choice depends on the **task, data, workflow, hardware, team, and scale** of the problem.
 
 ---
 
 Course: **ITAI 2376 — Deep Learning**  
-Assignment: **A02 — A Comparative Analysis of Machine Learning and Deep Learning Tools and Frameworks**
+Project: **Comparative Analysis of Machine Learning and Deep Learning Tools**
