@@ -4,6 +4,13 @@
 
 This repository is the working and submission repository for **ITAI 2376 — A02**.
 
+## DL_Group_4
+
+- Esther Odaibo
+- King Owusu
+- Louis Delgado
+- Zain Ahmed
+
 ### Assignment goal
 Compare machine-learning and deep-learning tools, libraries, frameworks, repositories, and platforms with attention to:
 
@@ -35,9 +42,17 @@ A separate one-page written report and separate reflection journal are **not bei
 ## Repository structure
 
 - `assignment/` — assignment instructions, instructor clarification, and checklist
-- `presentation/` — working and final presentation files
+- `presentation/` — working presentation content and final presentation files
 - `contribution-journal/` — required combined contribution journal materials
 - `sources/` — consolidated source notes and references
+
+## Current progress
+
+- All eight comparison topics are represented in the current presentation draft.
+- Opening and conclusion slides are developed.
+- King Owusu, Louis Delgado, and Zain Ahmed have contribution-journal entries in the current draft.
+- Esther Odaibo's contribution entry is still needed before the journal can be finalized.
+- Final deck export and final Contribution Journal PDF still need to be added before submission.
 
 ## Submission focus
 
@@ -47,8 +62,6 @@ Before submission, confirm that:
 - all four students are represented in the Contribution Journal
 - the final Contribution Journal is exported to PDF
 - the GitHub repository link is submitted in Canvas as instructed
-
-## Current project status
 
 See `assignment/STATUS.md` for the working checklist.
 
